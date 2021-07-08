@@ -25,7 +25,6 @@ The aim of this project was to create a web application that allows users to eff
 * Keras - version 2.4.3
 * Pillow - version 8.2.0
 * Matplotlib - version 3.4.2
-* Pandas - version 1.2.5
 * And more..
 
 ## Setup
